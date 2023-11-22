@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 url = "https://www.hrr.co.uk/wp-json/hrr/v1/results"
 
